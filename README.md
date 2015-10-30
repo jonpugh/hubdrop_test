@@ -1,4 +1,4 @@
-![I am HubDrop.](http://hubdrop.io/img/logo.png "HubDrop.io")
+![I am HubDrop.](http://hubdrop.org/img/logo.png "HubDrop.io")
 
 HubDrop Test Repo
 =================
